@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VivekkrGupta
 - 👀 I’m interested in software development and its lifecycle
 - 🌱 I’m currently learning building cloud native applications
-- 💞️ I’m looking to collaborate on open source projetcs
+- 💞️ I’m looking to collaborate on open source projects
 
 
 <!---
